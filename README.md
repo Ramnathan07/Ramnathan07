@@ -7,6 +7,8 @@ Driven and ambitious Master's in Computer Science student seeking opportunities 
  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramnathan07&show_icons=true&theme=radical)](https://github.com/Ramnathan07)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramnathan07&layout=compact&theme=radical)](https://github.com/Ramnathan07)
 </p>
+
+<p align="center"> 
 ## Skills
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
@@ -14,6 +16,7 @@ Driven and ambitious Master's in Computer Science student seeking opportunities 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=flat&logo=sql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+</p>
 
 ## Projects
 - **Stock Price Prediction Using Deep Learning**
