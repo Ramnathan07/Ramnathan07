@@ -4,8 +4,8 @@
 Driven and ambitious Master's in Computer Science student seeking opportunities to apply and expand my skills in HTML, CSS, JavaScript, and Python. Eager to contribute to innovative projects and committed to continuous learning and exploring new avenues within computer science, with the goal of making meaningful contributions to the industry.
 <p align="center">
  [![GitHub Views](https://komarev.com/ghpvc/?username=Ramnathan07&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Ramnathan07)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramnathan07&show_icons=true&theme=radical)](https://github.com/Ramnathan07)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramnathan07&layout=compact&theme=radical)](https://github.com/Ramnathan07)
+ [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramnathan07&show_icons=true&theme=radical)](https://github.com/Ramnathan07)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramnathan07&layout=compact&theme=radical)](https://github.com/Ramnathan07)
 </p>
 ## Skills
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
