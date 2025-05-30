@@ -28,3 +28,4 @@ Driven and ambitious Master's in Computer Science student seeking opportunities 
 ## Courses and Certifications
 - **Data Analysis with Python** from freecodecamp
 - **ISEA Certified Cyber Hygiene Practitioner** from MeitY Government of India
+- **Java Programming** — Great Learning
