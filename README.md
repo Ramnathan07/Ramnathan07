@@ -23,14 +23,14 @@ Driven and ambitious Master's in Computer Science student seeking opportunities 
 
 ## Projects
 **Student Management System (Spring Boot + JPA + MySQL)**  
-  Built a full-stack CRUD web application to manage student records.  
-  📌 Features: Add, Edit, Delete, and View student details.  
-  📌 Tech: Spring Boot, Thymeleaf, Spring Data JPA, PostgreSQL
+ - Built a full-stack CRUD web application to manage student records.  
+    Features: Add, Edit, Delete, and View student details.  
+    Tech: Spring Boot, Thymeleaf, Spring Data JPA, PostgreSQL
 
 - **Expense Tracker**  
-  Track daily personal expenses with categories, amounts, and dates.  
-  📌 Features: User login, add/edit/delete expenses, monthly summaries.  
-  📌 Tech: Spring Boot, Hibernate, PostgreSQL
+ - Track daily personal expenses with categories, amounts, and dates.  
+     Features: User login, add/edit/delete expenses, monthly summaries.  
+     Tech: Spring Boot, Hibernate, PostgreSQL
 
 - **Stock Price Prediction Using Deep Learning**
   - Developed a stock price prediction system using LSTM (Long Short-Term Memory) model, which helps in understanding patterns in past stock data to forecast future prices. This model aids in making smarter investment decisions by predicting where stock prices might go.
@@ -39,6 +39,6 @@ Driven and ambitious Master's in Computer Science student seeking opportunities 
   - Developing an AI-based hand tracking mouse involves creating a system that uses artificial intelligence to monitor and interpret hand movements, translating them into mouse inputs. This innovative project aims to provide users with a hands-free and intuitive way to control their computer cursor, enhancing accessibility and user experience.
 
 ## Courses and Certifications
-- **Data Analysis with Python** from freecodecamp
-- **ISEA Certified Cyber Hygiene Practitioner** from MeitY Government of India
 - **Java Programming** — Great Learning
+- Hewlett Packard Enterprise – Software Engineering (Forage Virtual Experience)
+- Java Spring Framework 6 with Spring Boot 3
