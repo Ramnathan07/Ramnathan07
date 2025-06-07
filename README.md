@@ -13,7 +13,7 @@ Driven and ambitious Master's in Computer Science student seeking opportunities 
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-007396.svg?style=flat&logo=spring&logoColor=white)  
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=flat&logo=hibernate&logoColor=white)  
 ![REST API](https://img.shields.io/badge/REST%20API-%2300ADD8.svg?style=flat&logo=flask&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=flat&logo=postgresql&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=flat&logo=sql&logoColor=white)  
@@ -28,15 +28,15 @@ Driven and ambitious Master's in Computer Science student seeking opportunities 
     Tech: Spring Boot, Thymeleaf, Spring Data JPA, PostgreSQL
 
 - **Expense Tracker**  
- - Track daily personal expenses with categories, amounts, and dates.  
-     Features: User login, add/edit/delete expenses, monthly summaries.  
-     Tech: Spring Boot, Hibernate, PostgreSQL
+  - Track daily personal expenses with categories, amounts, and dates.  
+      Features: User login, add/edit/delete expenses, monthly summaries.  
+      Tech: Spring Boot, Hibernate, PostgreSQL
 
 - **Stock Price Prediction Using Deep Learning**
   - Developed a stock price prediction system using LSTM (Long Short-Term Memory) model, which helps in understanding patterns in past stock data to forecast future prices. This model aids in making smarter investment decisions by predicting where stock prices might go.
 
 - **AI-based Hand Tracking Mouse**
-  - Developing an AI-based hand tracking mouse involves creating a system that uses artificial intelligence to monitor and interpret hand movements, translating them into mouse inputs. This innovative project aims to provide users with a hands-free and intuitive way to control their computer cursor, enhancing accessibility and user experience.
+  - Developing an AI-based hand tracking mouse involves creating a system that uses artificial intelligence to monitor and interpret hand movements, translating them into mouse inputs. This innovative project aims to provide users with a hands-free and intuitive way to      control their computer cursor, enhancing accessibility and user experience.
 
 ## Courses and Certifications
 - **Java Programming** — Great Learning
